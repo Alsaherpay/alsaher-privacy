@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - ALSAHER TUNNEL PLUS</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            min-height: 100vh;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        .dev-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .dev-info ul {
+            list-style: none;
+        }
+        
+        .dev-info li {
+            padding: 5px 0;
+        }
+        
+        .dev-info strong {
+            color: #667eea;
+            display: inline-block;
+            width: 140px;
+        }
+        
+        section {
+            margin-bottom: 35px;
+        }
+        
+        h2 {
+            color: #667eea;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e9ecef;
+        }
+        
+        h3 {
+            color: #555;
+            font-size: 1.2em;
+            margin: 20px 0 10px 0;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        ul {
+            margin: 15px 0 15px 25px;
+        }
+        
+        ul li {
+            margin-bottom: 8px;
+        }
+        
+        .no-log-box {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .no-log-box ul {
+            list-style: none;
+            margin-left: 0;
+        }
+        
+        .no-log-box li::before {
+            content: "✗ ";
+            color: #dc3545;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        
+        .highlight {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+        
+        .security-list {
+            background: #e7f3ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        
+        .security-list ul li {
+            padding: 5px 0;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 50px;
+            border-top: 2px solid #e9ecef;
+            color: #6c757d;
+        }
+        
+        .contact-box {
+            background: #667eea;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        .contact-box a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        .contact-box a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            header {
+                padding: 30px 20px;
+            }
+            
+            header h1 {
+                font-size: 1.5em;
+            }
+            
+            .dev-info strong {
+                width: 100%;
+                display: block;
+                margin-bottom: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔒 Privacy Policy</h1>
+            <p>ALSAHER TUNNEL PLUS</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">Effective Date: January 19, 2026 | Last Updated: January 19, 2026</p>
+        </header>
+
+        <div class="dev-info">
+            <ul>
+                <li><strong>App Name:</strong> ALSAHER TUNNEL PLUS</li>
+                <li><strong>Package Name:</strong> com.alsaher.plus</li>
+                <li><strong>Developer:</strong> ALSAHER VIP (Individual Developer)</li>
+                <li><strong>Contact Email:</strong> <a href="mailto:alsahervpn@gmail.com">alsahervpn@gmail.com</a></li>
+            </ul>
+        </div>
+
+        <section>
+            <h2>1. Introduction</h2>
+            <p>ALSAHER VIP ("we," "us," or "our") operates the ALSAHER TUNNEL PLUS mobile application (the "App"). This Privacy Policy explains our commitment to protecting your privacy and describes how we handle information when you use our VPN service.</p>
+        </section>
+
+        <section>
+            <h2>2. Our No-Log Policy</h2>
+            <div class="no-log-box">
+                <p><strong>We DO NOT collect, store, or log any of the following:</strong></p>
+                <ul>
+                    <li>Browsing history or websites visited</li>
+                    <li>IP addresses (original or assigned)</li>
+                    <li>Connection timestamps or duration</li>
+                    <li>DNS queries</li>
+                    <li>Bandwidth usage per session</li>
+                    <li>Traffic data or content</li>
+                    <li>User activity while connected to VPN</li>
+                </ul>
+            </div>
+            <div class="highlight">
+                <p><strong>We are committed to a strict zero-log policy.</strong> Your online activities remain completely private and anonymous.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>3. Information We Do NOT Collect</h2>
+            <p>We do not collect, store, or process:</p>
+            <ul>
+                <li>Personal identification information</li>
+                <li>Location data</li>
+                <li>Device identifiers</li>
+                <li>Payment information (if applicable, handled by third-party payment processors)</li>
+                <li>Any data that could identify you or your activities</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>4. Minimal Technical Data</h2>
+            <p>To provide our VPN service, we may temporarily process the following data <strong>only during active connection</strong> and <strong>it is never stored:</strong></p>
+            <ul>
+                <li>Server load information (to balance connections)</li>
+                <li>Basic app diagnostics (for connection stability)</li>
+            </ul>
+            <p>This data is processed in real-time and is <strong>immediately discarded</strong> after your session ends.</p>
+        </section>
+
+        <section>
+            <h2>5. Security & Encryption</h2>
+            <p>ALSAHER TUNNEL PLUS uses industry-standard security protocols to protect your connection:</p>
+            <div class="security-list">
+                <ul>
+                    <li><strong>OpenVPN</strong> - Secure VPN protocol</li>
+                    <li><strong>V2Ray</strong> - Advanced proxy protocol</li>
+                    <li><strong>SSH</strong> - Secure Shell tunneling</li>
+                    <li><strong>SSL</strong> - Secure Socket Layer encryption</li>
+                    <li><strong>SlowDNS</strong> - DNS tunneling technology</li>
+                    <li><strong>UDP</strong> - User Datagram Protocol support</li>
+                </ul>
+            </div>
+            <p>All connections are encrypted to ensure maximum privacy and security.</p>
+        </section>
+
+        <section>
+            <h2>6. Third-Party Services</h2>
+            <p>Our App does not integrate with third-party analytics, advertising, or tracking services. We do not share any information with third parties because we simply do not collect it.</p>
+        </section>
+
+        <section>
+            <h2>7. Data Retention</h2>
+            <div class="highlight">
+                <p><strong>We retain NO data</strong> because we do not collect any personal or usage data in the first place.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>8. Children's Privacy</h2>
+            <p>Our App does not knowingly collect information from children under the age of 13. We do not collect personal information from any user, regardless of age.</p>
+        </section>
+
+        <section>
+            <h2>9. International Data Transfers</h2>
+            <p>Since we do not collect or store any user data, there are no international data transfers to disclose.</p>
+        </section>
+
+        <section>
+            <h2>10. Your Rights</h2>
+            <p>Since we do not collect personal data:</p>
+            <ul>
+                <li>There is no data to access, modify, or delete</li>
+                <li>You maintain complete anonymity while using our service</li>
+                <li>Your privacy is protected by design</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>11. Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.</p>
+        </section>
+
+        <section>
+            <h2>12. Contact Us</h2>
+            <div class="contact-box">
+                <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+                <p style="margin-top: 10px;"><strong>Email:</strong> <a href="mailto:alsahervpn@gmail.com">alsahervpn@gmail.com</a></p>
+            </div>
+        </section>
+
+        <section>
+            <h2>13. Legal Compliance</h2>
+            <p>We comply with applicable data protection laws. However, since we maintain a strict no-log policy, we have no user data to provide to any third party, including government authorities.</p>
+        </section>
+
+        <section>
+            <h2>14. Consent</h2>
+            <p>By using ALSAHER TUNNEL PLUS, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.</p>
+        </section>
+
+        <footer>
+            <p><strong>ALSAHER VIP</strong></p>
+            <p>Individual Developer</p>
+            <p><a href="mailto:alsahervpn@gmail.com">alsahervpn@gmail.com</a></p>
+        </footer>
+    </div>
+</body>
+</html>
